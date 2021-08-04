@@ -1,0 +1,100 @@
+p1{
+    font-weight:500
+    font-size: 20px;
+    color:black;
+}
+
+table{
+    font-size: 20px;
+    border-collapse: collapse;
+    font-family: cursive;
+    border-style: solid;
+    border-color:black;
+
+}
+
+th{
+    font-weight: 700;
+    background-color: dodgerblue;
+    color:ghostwhite;
+}
+
+h0{
+    background-image: url('images/menu-button.gif')
+    text-decoration:none;
+    color:blank;
+
+   
+
+}
+
+#menu-bar a{
+    text-decoration: none;
+    colour:black;
+    font-weight:100;
+    font-family: cursive;
+
+    background-image: url('images/menu-button.gif');
+    background-repeat: no-repeat;
+    display: block;
+    width: 128px;
+    padding-left: 18px;
+    padding-top: 2px;
+
+
+}
+    #menu-bar a:hover{
+        background-image: url('images/menu-button-hover.gif');
+        color:salmon;
+    }
+
+
+    #menu-bar a{
+        text-decoration: none;
+        color:darkblue;
+        font-weight: 100;
+        font-family: cursive;
+
+        background-image: url('images/menu-button.gif');
+        background-repeat: no-repeat;
+        display: block;
+        width: 128px;
+        padding-left: 20px;
+        padding-bottom: 15px;
+
+        
+
+    
+    }
+
+    #menu-bar a:hover{
+        backgrund-image: url('images/menu-button-hover.gif');
+        color:peachpuff;
+    }
+
+    p{
+        font-weight: 100;
+        font-family: cursive;
+
+    }
+
+    p1{
+        font-weight:400;
+        font-size: 25px;
+        color:black;
+    }
+
+    P{
+        font-size: 20px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        colour:black;
+    }
+
+
+    
+
+    
+    
+    
+
+    
